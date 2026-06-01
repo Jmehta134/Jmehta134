@@ -1,58 +1,108 @@
-<h1 align="center">Hi 👋, I'm Jay</h1>
+<h1 align="center">Hi, I'm Jay 👋</h1>
 
 <p align="center">
-  <strong>MATLAB | Simulink | Control Systems | Communication Systems</strong>
+  <strong>Control Systems & Communication Systems Engineer | MATLAB • Simulink • C • C++</strong>
 </p>
 
 <p align="center">
-  Passionate about building high-performance simulation models and solving real-world engineering problems using MATLAB & Simulink.
+  I design high-performance simulation models and build robust communication & control systems using MATLAB/Simulink and C/C++.
 </p>
 
 ---
 
-### 🔧 Technologies & Tools
+<div align="center">
+  <table>
+    <tr>
+      <!-- LEFT COLUMN - Narrow -->
+      <td width="38%" align="left" valign="top">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MATLAB-R2025a-orange?logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Simulink-0076A8?logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Control%20Systems-00B4D8" />
-  <img src="https://img.shields.io/badge/Signal%20Processing-FF006E" />
-  <img src="https://img.shields.io/badge/Communications-8338EC" />
-</p>
+        ### About Me
+        Passionate about turning complex engineering problems into reliable, well-documented simulation models. Currently focused on advanced communication systems and modern control techniques.
 
-- **Core Expertise**: Simulink Modeling, PID Control, State-Space Systems, OFDM, MIMO
-- **Tools**: MATLAB, Simulink, Stateflow, MATLAB App Designer
-- **Currently Learning**: 5G NR Physical Layer, Massive MIMO, Machine Learning with MATLAB
+        ### Tools & Technologies
+
+        <p>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="42" alt="MATLAB"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/simulink/simulink-original.svg" height="42" alt="Simulink"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="42" alt="C"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42" alt="C++"/>
+        </p>
+
+        <p>
+          <strong>Core Skills:</strong><br>
+          • Simulink Modeling & Simulation<br>
+          • Digital Communication Systems<br>
+          • Control System Design (PID, LQR, MPC)<br>
+          • Signal Processing & MIMO Systems<br>
+          • C/C++ for Performance-Critical Code
+        </p>
+
+      </td>
+
+      <!-- Vertical Separator -->
+      <td width="2%" align="center">
+        <img src="https://i.imgur.com/7Z9Z9Z9.png" width="2" height="320"/>
+      </td>
+
+      <!-- RIGHT COLUMN - Wider -->
+      <td width="60%" align="left" valign="top">
+
+        ### Featured Projects
+
+        <table>
+          <tr>
+            <td align="center">
+              <a href="https://github.com/yourusername/project-link-1">
+                <img src="images/project1-thumbnail.png" width="280" alt="Project 1"/>
+                <br><strong>5G NR Downlink Simulator</strong><br>
+                <small>OFDM • LDPC • Beamforming</small>
+              </a>
+            </td>
+            <td align="center">
+              <a href="https://github.com/yourusername/project-link-2">
+                <img src="images/project2-thumbnail.png" width="280" alt="Project 2"/>
+                <br><strong>Massive MIMO (64x64)</strong><br>
+                <small>Precoding • Channel Estimation • ZF/MMSE</small>
+              </a>
+            </td>
+          </tr>
+          
+          <tr>
+            <td align="center">
+              <a href="https://github.com/yourusername/project-link-3">
+                <img src="images/project3-thumbnail.png" width="280" alt="Project 3"/>
+                <br><strong>Adaptive PID Controller</strong><br>
+                <small>DC Motor • Real-time Tuning • Performance Analysis</small>
+              </a>
+            </td>
+            <td align="center">
+              <a href="https://github.com/yourusername/project-link-4">
+                <img src="images/project4-thumbnail.png" width="280" alt="Project 4"/>
+                <br><strong>Cognitive Radio System</strong><br>
+                <small>Spectrum Sensing • Dynamic Spectrum Access</small>
+              </a>
+            </td>
+          </tr>
+        </table>
+
+        <p align="right">
+          <a href="https://github.com/yourusername?tab=repositories"><strong>View All Projects →</strong></a>
+        </p>
+
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-### 🔥 Featured Projects
-
-**Advanced Projects**
-
-- **[Massive MIMO Precoding & Detection](your-link)** → 64×64 system with ZF & MMSE precoding
-- **[5G NR Downlink Simulator](your-link)** → OFDM + LDPC + Beamforming
-- **[Adaptive PID Controller for DC Motor](your-link)** → Real-time tuning with performance analysis
-- **[Cognitive Radio Spectrum Sensing](your-link)** → Energy + Cyclostationary detection
-
-→ **[View All Projects](https://github.com/yourusername?tab=repositories)**
+### Currently Exploring
+- Physical Layer Security in 5G
+- Hardware-in-the-Loop (HIL) Simulation
+- Machine Learning integration with Simulink
 
 ---
 
-### 📊 What I'm Working On
-
-- Building high-fidelity communication system simulators
-- Exploring modern control techniques (MPC, LQR, Fuzzy Logic)
-- Creating clean, well-documented MATLAB/Simulink repositories
-- Preparing for industry-level simulation & modeling roles
-
----
-
-### 📫 Let's Connect
-
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Email**: your.email@example.com
-- **MATLAB Central**: (if you have profile)
-
----
-         
+**Let's Connect**
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- Email: your.email@domain.com
