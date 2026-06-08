@@ -20,7 +20,24 @@
 **[5G Adaptive Beamforming System](https://github.com/Jmehta134/5G-Adaptive-Beamforming)**
 > Developing phased-array signal processing models to optimize directional mmWave links and implementing real-time spatial multiplexing for dynamic communication channels.
 
-### 🔭 Currently Exploring
-* **Communication Complexity** — Analyzing the fundamental limits of data exchange protocols and mathematical modeling optimization.
-* **SDR Protocols** — Designing hardware-in-the-loop DSP pipelines for next-gen physical layer wireless systems.
-* **High-Throughput Firmware** — Mapping complex algorithm designs directly down to low-latency embedded targets.
+
+<details>
+<summary><h3>📂 More Project Repositories</h3></summary>
+<br/>
+
+**[QuadcopterMPC-Simulink](https://github.com/Jmehta134/QuadcopterMPC-Simulink)**
+> A 6-DOF Quadcopter Simulation in MATLAB/Simulink using Model Predictive Control (MPC) for waypoint navigation, with custom flight profiles (Helical, Cubical).
+
+**[Simscape-DC-Motor-Fault-Prediction](https://github.com/Jmehta134/Simscape-DC-Motor-Fault-Prediction)**
+> Simulating bearing wear and winding faults in a DC Motor to build a machine learning-based predictive maintenance tool.
+</details>
+
+
+<details>
+<summary><h3>🔭 Currently Exploring</h3></summary>
+<br/>
+
+* **Communication Complexity** — Analyzing the fundamental limits of data exchange protocols, Boolean function optimization, and computational complexity models.
+* **SDR & Wireless Labs** — Designing hardware-in-the-loop DSP pipelines for next-gen physical layer wireless systems.
+* **High-Throughput Firmware** — Mapping complex algorithm designs directly down to low-latency embedded systems targets.
+</details>
