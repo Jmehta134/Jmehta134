@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Jay 👋</h1>
 
 <p align="center">
-  <strong>Communication Systems Engineer</strong><br>
-  <i>Translating complex mathematical models into robust simulations and embedded hardware.</i>
+  <strong>Electronic Systems Engineer</strong><br>
+  <i>Translating complex mathematical models into robust simulations and SoC architechture.</i>
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@
 <summary><h3>🔭 Currently Exploring</h3></summary>
 <br/>
 
-* **Communication Complexity** — Analyzing the fundamental limits of data exchange protocols, Boolean function optimization, and computational complexity models.
-* **SDR & Wireless Labs** — Designing hardware-in-the-loop DSP pipelines for next-gen physical layer wireless systems.
-* **High-Throughput Firmware** — Mapping complex algorithm designs directly down to low-latency embedded systems targets.
+* ⚡ **High-Level Synthesis (HLS) & FPGAs** — Designing custom hardware accelerators by pipelining C/C++ algorithms into highly efficient RTL for reconfigurable architectures.
+* 🧩 **Electronic Design Automation (EDA)** — Utilizing Boolean Satisfiability (SAT) solvers and advanced computational complexity models to enhance logic synthesis and formal verification.
+* 🔬 **System-on-Chip (SoC) Architectures** — Mastering hardware-software co-design and bare-metal firmware bring-up to map dynamic mathematical models directly onto silicon.
 </details>
