@@ -21,8 +21,7 @@
 > Developing phased-array signal processing models to optimize directional mmWave links and implementing real-time spatial multiplexing for dynamic communication channels.
 
 
-<details>
-<summary><h3>📂 More Project Repositories</h3></summary>
+<h3>📂 More Project Repositories</h3>
 <br/>
 
 **[QuadcopterMPC-Simulink](https://github.com/Jmehta134/QuadcopterMPC-Simulink)**
@@ -30,14 +29,11 @@
 
 **[Simscape-DC-Motor-Fault-Prediction](https://github.com/Jmehta134/Simscape-DC-Motor-Fault-Prediction)**
 > Simulating bearing wear and winding faults in a DC Motor to build a machine learning-based predictive maintenance tool.
-</details>
 
 
-<details>
-<summary><h3>🔭 Currently Exploring</h3></summary>
+<h3>🔭 Currently Exploring</h3>
 <br/>
 
 * ⚡ **High-Level Synthesis (HLS) & FPGAs** — Designing custom hardware accelerators by pipelining C/C++ algorithms into highly efficient RTL for reconfigurable architectures.
 * 🧩 **Electronic Design Automation (EDA)** — Utilizing Boolean Satisfiability (SAT) solvers and advanced computational complexity models to enhance logic synthesis and formal verification.
 * 🔬 **System-on-Chip (SoC) Architectures** — Mastering hardware-software co-design and bare-metal firmware bring-up to map dynamic mathematical models directly onto silicon.
-</details>
